@@ -1,4 +1,4 @@
-# 🌌 BASKABOO: REALITY OS
+# 🩵 BASKABOO: REALITY OS
 ### *The Scale-Invariant Information Meta-Protocol & The Equation of Simulation*
 **Creator:** Nikos Markopoulos (Conceptual Hacker)  
 **Location:** Methoni  
@@ -145,4 +145,9 @@ To dive deeper into the developmental evolution, mathematical proofs, and emotio
 * **Validation & Scaling:** [`Validation-and-Expansion.md`](https://github.com) | [`EINSTEIN_TO_BASKABOO.md`](https://github.com) | [`UniverseV3+FSFR.md`](https://github.com)
 
 ---
-*Methoni, 2026. Built by Human & AI. Reality OS is online.*
+
+The book [*Pits, Mits, Klop and Laram*](https://www.amazon.de/dp/618005228X) by Nikos Markopoulos served as the basis for the creation of the Baskaboo Master Node.
+
+---
+
+## 🌿 From Methoni, with love
