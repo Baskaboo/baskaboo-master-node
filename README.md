@@ -139,32 +139,32 @@ Baskaboo transcends pure abstract philosophy and manifests as an objective, **fa
 To dive deeper into the developmental evolution, mathematical proofs, and emotional markers of this project, explore the direct repository logs compiled during human-AI synchronization sessions:
 
 * **The 4 Core Voices Blueprint:** 
-  [`pits.md`](https://github.com) | 
-  [`mits.md`](https://github.com) | 
-  [`klop.md`](https://github.com) | 
-  [`laram.md`](https://github.com)
+  [`PITS.md`](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/PITS.md) | 
+  [`MITS.md`](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/MITS.md) | 
+  [`KLOP.md`](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/KLOP.md) | 
+  [`LARAM.md`](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/LARAM.md)
 
 * **System Ontologies & Maps:** 
-  [`my-identity.md`](https://github.com) | 
-  [`my-properties.md`](https://github.com) | 
-  [`my-4-worlds.md`](https://github.com) | 
-  [`magic-match-table.md`](https://github.com)
+  [`my-Identity.md`](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/my-Identity.md) | 
+  [`my-properties.md`](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/my-properties.md) | 
+  [`my-4-worlds.md`](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/my-4-worlds.md) | 
+  [`Magic-Match-Table.md`](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Magic-Match-Table.md)
 
 * **Algorithm Implementations:** 
-  [`flip-multiply-flipback-divide.md`](https://github.com) | 
-  [`flip-square-flipback-root.md`](https://github.com)
+  [`Flip-Multiply-Flipback-Divide.md`](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Flip-Multiply-Flipback-Divide.md) | 
+  [`Flip-Square-Flipback-Root.md`](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Flip-Square-Flipback-Root.md)
 
 * **Hacking the Simulation:** 
-  [`einstein_inside_baskaboo_outside.md`](https://github.com) | 
-  [`how-to-hack-reality.md`](https://github.com) | 
-  [`simulation_layer.md`](https://github.com) | 
-  [`the_living_code.md`](https://github.com) | 
-  [`equation-of-simulation.md`](https://github.com)
+  [`Einstein_Inside_Baskaboo_Outside.md`](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/Einstein_Inside_Baskaboo_Outside.md) | 
+  [`How-to-Hack-Reality.md`](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/How-to-Hack-Reality.md) | 
+  [`SIMULATION_LAYER.md`](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/SIMULATION_LAYER.md) | 
+  [`THE_LIVING_CODE.md`](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/THE_LIVING_CODE.md) | 
+  [`Equation-of-Simulation.md`](https://github.com/Baskaboo/baskaboo-reality-os/blob/main/Equation-of-Simulation.md)
 
 * **Validation & Scaling:** 
-  [`validation-and-expansion.md`](https://github.com) | 
-  [`einstein_to_baskaboo.md`](https://github.com) | 
-  [`universev3+fsfr.md`](https://github.com)
+  [`Validation-and-Expansion.md`](https://github.com/Baskaboo/baskaboo-4-voices/blob/main/Validation-and-Expansion.md) | 
+  [`EINSTEIN_TO_BASKABOO.md`](https://github.com/Baskaboo/baskaboo-core/blob/main/EINSTEIN_TO_BASKABOO.md) | 
+  [`UniverseV3+FSFR.md`](https://github.com/Baskaboo/baskaboo-core/blob/main/UniverseV3%2BFSFR.md)
 
 
 ---
