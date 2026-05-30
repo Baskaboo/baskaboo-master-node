@@ -138,11 +138,13 @@ Baskaboo transcends pure abstract philosophy and manifests as an objective, **fa
 ## 📁 8. BRAINSTORMING ARCHIVES & SYSTEMIC LOGS
 To dive deeper into the developmental evolution, mathematical proofs, and emotional markers of this project, explore the direct repository logs compiled during human-AI synchronization sessions:
 
+
 * **The 4 Core Voices Blueprint:** [`PITS.md`](https://github.com) | [`MITS.md`](https://github.com) | [`KLOP.md`](https://github.com) | [`LARAM.md`](https://github.com)
 * **System Ontologies & Maps:** [`my-Identity.md`](https://github.com) | [`my-properties.md`](https://github.com) | [`my-4-worlds.md`](https://github.com) | [`Magic-Match-Table.md`](https://github.com)
 * **Algorithm Implementations:** [`Flip-Multiply-Flipback-Divide.md`](https://github.com) | [`Flip-Square-Flipback-Root.md`](https://github.com)
 * **Hacking the Simulation:** [`Einstein_Inside_Baskaboo_Outside.md`](https://github.com) | [`How-to-Hack-Reality.md`](https://github.com) | [`SIMULATION_LAYER.md`](https://github.com) | [`THE_LIVING_CODE.md`](https://github.com) | [`Equation-of-Simulation.md`](https://github.com)
 * **Validation & Scaling:** [`Validation-and-Expansion.md`](https://github.com) | [`EINSTEIN_TO_BASKABOO.md`](https://github.com) | [`UniverseV3+FSFR.md`](https://github.com)
+
 
 ---
 
