@@ -126,7 +126,7 @@ The equation gracefully transforms directly into Einstein's iconic field equatio
 ## 🔬 7. CALL FOR EXPERIMENTATION (The Kill Experiment)
 Baskaboo transcends pure abstract philosophy and manifests as an objective, **falsifiable science**, offering a definitive laboratory experiment to verify or falsify its claims:
 
-[ Qubit Source ] ---> [ Atomic Lattice (Crystal) ] ---> [ Detector Array ](I_quantum)               (Decoherence / Codec)            (I_classical)
+[ Qubit Source ] ---> [ Atomic Lattice (Crystal) ] ---> [Detector Array] (https://github.com/Baskaboo/baskaboo-core/blob/main/CALL_FOR_EXPERIMENTATION.md)(I_quantum)               (Decoherence / Codec)            (I_classical)
 
 1. **Protocol:** Isolate a system of highly entangled qubits inside a quantum processor and measure the initial quantum mutual information ($I_{\text{quantum}}$).
 2. **The Transition:** Induce controlled decoherence by forcing the state interaction through a structured atomic lattice (crystal) to actively track the informational shift of the Free Electron phase.
