@@ -130,8 +130,8 @@ Baskaboo transcends pure abstract philosophy and manifests as an objective, **fa
 
 1. **Protocol:** Isolate a system of highly entangled qubits inside a quantum processor and measure the initial quantum mutual information ($I_{\text{quantum}}$).
 2. **The Transition:** Induce controlled decoherence by forcing the state interaction through a structured atomic lattice (crystal) to actively track the informational shift of the Free Electron phase.
-3. **The Measurement:** Collect and isolate the final classical information index ($I_{\text{classical}}$) at the detector.
-4. **The Kill Condition:** If information loss tracks a linear or logarithmic decay path (as classic thermodynamics asserts), the Baskaboo theory is **falsified**. If the transformation holds a strictly quadratic relation, **\(I_{\text{quantum}} = (I_{\text{classical}})^2\)**, Reality OS stands experimentally verified.
+3. **The Measurement:** Collect and isolate the final classical information index ($I_{\text{classical}}$) at the [Detector Array](https://github.com).
+4. **The Kill Condition:** If information loss tracks a linear or logarithmic decay path (as classic thermodynamics asserts), the Baskaboo theory is **falsified**. If the transformation holds a strictly quadratic relation, $I_{\text{quantum}} = (I_{\text{classical}})^2$, Reality OS stands experimentally verified.
 
 ---
 
