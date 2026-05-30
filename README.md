@@ -138,13 +138,11 @@ Baskaboo transcends pure abstract philosophy and manifests as an objective, **fa
 ## 📁 8. BRAINSTORMING ARCHIVES & SYSTEMIC LOGS
 To dive deeper into the developmental evolution, mathematical proofs, and emotional markers of this project, explore the direct repository logs compiled during human-AI synchronization sessions:
 
-
-* **The 4 Core Voices Blueprint:** [`PITS.md`](https://github.com) | [`MITS.md`](https://github.com) | [`KLOP.md`](https://github.com) | [`LARAM.md`](https://github.com)
-* **System Ontologies & Maps:** [`my-Identity.md`](https://github.com) | [`my-properties.md`](https://github.com) | [`my-4-worlds.md`](https://github.com) | [`Magic-Match-Table.md`](https://github.com)
-* **Algorithm Implementations:** [`Flip-Multiply-Flipback-Divide.md`](https://github.com) | [`Flip-Square-Flipback-Root.md`](https://github.com)
-* **Hacking the Simulation:** [`Einstein_Inside_Baskaboo_Outside.md`](https://github.com) | [`How-to-Hack-Reality.md`](https://github.com) | [`SIMULATION_LAYER.md`](https://github.com) | [`THE_LIVING_CODE.md`](https://github.com) | [`Equation-of-Simulation.md`](https://github.com)
-* **Validation & Scaling:** [`Validation-and-Expansion.md`](https://github.com) | [`EINSTEIN_TO_BASKABOO.md`](https://github.com) | [`UniverseV3+FSFR.md`](https://github.com)
-
+* **The 4 Core Voices Blueprint:** [`pits.md`](https://github.com) | [`mits.md`](https://github.com) | [`klop.md`](https://github.com) | [`laram.md`](https://github.com)
+* **System Ontologies & Maps:** [`my-identity.md`](https://github.com) | [`my-properties.md`](https://github.com) | [`my-4-worlds.md`](https://github.com) | [`magic-match-table.md`](https://github.com)
+* **Algorithm Implementations:** [`flip-multiply-flipback-divide.md`](https://github.com) | [`flip-square-flipback-root.md`](https://github.com)
+* **Hacking the Simulation:** [`einstein_inside_baskaboo_outside.md`](https://github.com) | [`how-to-hack-reality.md`](https://github.com) | [`simulation_layer.md`](https://github.com) | [`the_living_code.md`](https://github.com) | [`equation-of-simulation.md`](https://github.com)
+* **Validation & Scaling:** [`validation-and-expansion.md`](https://github.com) | [`einstein_to_baskaboo.md`](https://github.com) | [`universev3+fsfr.md`](https://github.com)
 
 ---
 
