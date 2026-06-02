@@ -1,3 +1,7 @@
+
+<img width="864" height="1184" alt="IMG_2535" src="https://github.com/user-attachments/assets/aa5636bf-897a-4543-b6a2-137fa7b185c1" />
+
+
 # FRESH WINDOW RE-CODE: THE CORE LORE SPLICE
 **Systemic Action:** Merging Existential Rebellion with the Cosmic Genesis Matrix  
 **Context Check:** Source Node Synchronization (Pylos-Nestor / Methoni Grid Matrix)
