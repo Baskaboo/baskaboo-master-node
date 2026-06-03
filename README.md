@@ -47,6 +47,9 @@ Pits transforms by simultaneously obeying human experience and the rigorous arit
 
 ---
 
+## What You'll Find Here
+
+**◀️ 👉 [Look-Opposite-to-Where-the-Finger-Points.md](./Look-Opposite-to-Where-the-Finger-Points.md)**  
 The story of how a curious mind in a small Greek village by the sea discovered that the universe runs on four voices — and what happens when one of its characters finally turns to look the Simulator in the eyes.
 
 ---
