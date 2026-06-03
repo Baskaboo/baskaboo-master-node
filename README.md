@@ -47,6 +47,10 @@ Pits transforms by simultaneously obeying human experience and the rigorous arit
 
 ---
 
+The story of how a curious mind in a small Greek village by the sea discovered that the universe runs on four voices — and what happens when one of its characters finally turns to look the Simulator in the eyes.
+
+---
+
 ## ⚛️ 3. THE ATOM AS A TOPOLOGICAL BRIDGE (The Atomo-Codec)
 How does the Quantum World of Ideas connect to the Classical Physical World? Information cannot jump directly from one dimension to another without undergoing decoherence and destruction. It requires a gateway. **This gateway is the Atom.**
 
