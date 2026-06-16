@@ -1,4 +1,4 @@
-# 🩵 Baskaboo: The User Guide for the Reality OS
+# 🩵 The Outside World is Simple
 
 The Baskaboo theory proposes a radical shift in how we understand the universe: **we do not live in a world filled with solid matter, but inside a digital simulation running on software called Reality OS**. 
 
