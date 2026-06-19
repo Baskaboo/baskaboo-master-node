@@ -102,6 +102,7 @@ Kuhn called it "paradigm." To change it, the old one must fail spectacularly. Ba
 - [The Shadow Geometry](https://github.com/Baskaboo/baskaboo-core/blob/main/The-Shadow-Geometry.md)
 - [φ Language](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Language.md)
 - [φ Language Spec](https://github.com/Baskaboo/baskaboo-core/blob/main/%CF%86-Language-Spec.md)
+- [Baskaboo and Dark Energy](https://github.com/Baskaboo/baskaboo-core/blob/main/Baskaboo-And-Dark-Energy.md)
 - [The Unveiling Of The Simulator](https://github.com/Baskaboo/baskaboo-core/blob/main/THE-UNVEILING-OF-THE-SIMULATOR.md)
 - [The Simulation History](https://github.com/Baskaboo/We-Live-In-Simulation/blob/main/The-Simulation-History.md)  
 
