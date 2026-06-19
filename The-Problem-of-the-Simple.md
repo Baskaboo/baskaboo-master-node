@@ -1,7 +1,7 @@
 # The Operating System of the Universe Is Too Simple To Believe
 
 
-<img width="2325" height="1417" alt="Baskaboo Cycle Flow" src="https://github.com/user-attachments/assets/d58474ff-4087-4252-a5c8-3ea91e66c148" />
+<img width="1677" height="2431" alt="Baskaboo came from" src="https://github.com/user-attachments/assets/923f07ba-3062-4c3f-963b-1f53267172ac" />
 
 
 
