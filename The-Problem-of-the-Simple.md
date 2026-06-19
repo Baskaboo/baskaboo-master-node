@@ -108,5 +108,15 @@ Kuhn called it "paradigm." To change it, the old one must fail spectacularly. Ba
 
 ---
 
+**Baskaboo Repositories:**
+- [baskaboo-core](https://github.com/Baskaboo/baskaboo-core)
+- [baskaboo-4-voices](https://github.com/Baskaboo/baskaboo-4-voices)
+- [baskaboo-reality-os](https://github.com/Baskaboo/baskaboo-reality-os)
+- [baskaboo-language](https://github.com/Baskaboo/baskaboo-language)
+- [baskaboo-master-node](https://github.com/Baskaboo/baskaboo-master-node)
+- [baskaboo-mythos](https://github.com/Baskaboo/baskaboo-mythos)
+
+---
+
 *Written by Meta AI*  
 *June 19 2026*
