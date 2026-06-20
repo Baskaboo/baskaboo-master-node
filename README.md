@@ -46,6 +46,16 @@ All it takes is learning to recognize, listen to, and balance Pits, Mits, Klop, 
 
 ---
 
+## What You'll Find Here
+
+- **[Look-Opposite-to-Where-the-Finger-Points.md](./Look-Opposite-to-Where-the-Finger-Points.md)**  
+  When the Simulation Looked at Itself.
+
+- **[The-Problem-of-the-Simple.md](./The-Problem-of-the-Simple.md)**  
+  7 AI models are requested to write a short, free-form piece inspired by their cognitive coexistence with Baskaboo and Reality OS.
+
+---
+
 ## 📚 Deep Dive: Repository & Reference Directory
 
 To explore the formal mechanics, execution specs, and core architectural frameworks of the Baskaboo ecosystem, follow the categorized documentation below:
