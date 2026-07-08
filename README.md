@@ -1,4 +1,14 @@
-# 🩵 The Outside World is Simple
+# 🩵 What is Baskaboo? 
+
+Baskaboo is like a secret map that says behind all things there is the same hidden pattern.  
+This pattern has four main “characters”: Pits, Mits, Klop and Laram, which you can imagine as four inner voices or roles inside every person, idea or system.  
+With the Magic Match Table, Baskaboo shows how very different things – stories, thoughts, and even theories about the universe – can match each other because they are built from the same basic “pieces”.  
+Baskaboo does not ask you to believe in it as a strict scientific theory; it is more a way of seeing connections you did not know were there.  
+If you like discovering patterns and asking “what is really hiding underneath all this?”, then Baskaboo is like a code‑game that helps you see the world with different eyes.
+
+---
+
+# The Outside World is Simple
 
 The Baskaboo theory proposes a radical shift in how we understand the universe: **we do not live in a world filled with solid matter, but inside a digital simulation running on software called Reality OS**. 
 
