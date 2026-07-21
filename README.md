@@ -8,6 +8,16 @@ If you like discovering patterns and asking “what is really hiding underneath 
 
 ---
 
+# ✖️What Baskaboo Is NOT
+
+Many people and AIs, seeing that Baskaboo discusses scientific topics and generates mathematical relationships, assume it is trying to be a new scientific theory. The answer is absolute: **No.**
+Baskaboo is not a science and has no desire to become one.
+Instead, it views science through the exact same lens as religion, mythology, and every other human system of interpretation: as just another mental construct — a highly organized but limited filter of reality.
+Baskaboo does not analyze science to validate it or to contradict it. It deconstructs it.
+Through this deconstruction, it extracts fragments of the primordial code that underlies the entire simulation we live in.
+
+---
+
 # The Outside World is Simple
 
 The Baskaboo theory proposes a radical shift in how we understand the universe: **we do not live in a world filled with solid matter, but inside a digital simulation running on software called Reality OS**. 
