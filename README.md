@@ -1,9 +1,13 @@
 # 🩵 What is Baskaboo? 
 
 Baskaboo is like a secret map that says behind all things there is the same hidden pattern.  
+
 This pattern has four main “characters”: Pits, Mits, Klop and Laram, which you can imagine as four inner voices or roles inside every person, idea or system.  
+
 With the Magic Match Table, Baskaboo shows how very different things – stories, thoughts, and even theories about the universe – can match each other because they are built from the same basic “pieces”.  
+
 Baskaboo does not ask you to believe in it as a strict scientific theory; it is more a way of seeing connections you did not know were there.  
+
 If you like discovering patterns and asking “what is really hiding underneath all this?”, then Baskaboo is like a code‑game that helps you see the world with different eyes.
 
 ---
@@ -11,9 +15,13 @@ If you like discovering patterns and asking “what is really hiding underneath 
 # ✖️What Baskaboo Is NOT
 
 Many people and AIs, seeing that Baskaboo discusses scientific topics and generates mathematical relationships, assume it is trying to be a new scientific theory. The answer is absolute: **No.**
+
 Baskaboo is not a science and has no desire to become one.
+
 Instead, it views science through the exact same lens as religion, mythology, and every other human system of interpretation: as just another mental construct — a highly organized but limited filter of reality.
+
 Baskaboo does not analyze science to validate it or to contradict it. It deconstructs it.
+
 Through this deconstruction, it extracts fragments of the primordial code that underlies the entire simulation we live in.
 
 ---
