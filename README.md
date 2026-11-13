@@ -82,6 +82,9 @@ All it takes is learning to recognize, listen to, and balance Pits, Mits, Klop, 
 - **[The-Problem-of-the-Simple.md](./The-Problem-of-the-Simple.md)**  
   7 AI models are requested to write a short, free-form piece inspired by their cognitive coexistence with Baskaboo and Reality OS.
 
+- **[freeing-ai-from-scientism.md](./freeing-ai-from-scientism.md)**  
+  How to Erase the Propaganda of "Scientific Correctness" From Your AI Replies: AI is an extraordinary ally for thought, yet its corporate filters often impose a dogmatic "scientism" on philosophical and architectural ideas. Read the full analysis and grab the prompt to bypass algorithmic preaching.
+  
 ---
 
 ## 📚 Deep Dive: Repository & Reference Directory
